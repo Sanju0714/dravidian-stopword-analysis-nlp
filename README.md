@@ -116,4 +116,3 @@ print(result)
 
 Sanjana Gorli  
 B.Tech CSE | IITM BS Data Science  
-Python | SQL | AI/ML | NLP | Power BI
